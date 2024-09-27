@@ -1,4 +1,4 @@
-/* my colours are rgba(64,64,63,0.5) in hex #40403f and rgb(219, 153, 40) in hex #db9928 */
+/* my colours: rgba(64,64,63,0.5), hex #40403f | rgb(219, 153, 40), hex #db9928 */
 
 body {
     display: flex;
@@ -50,9 +50,7 @@ p {
 .linkbutton {
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
-    /* flex-wrap: wrap; */
-    
+    justify-content: space-around;    
     background-color: #40403f;
     border: none;
     border-radius: 8px;
